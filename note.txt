@@ -1,1 +1,2 @@
  Git is a distributed version control system that helps developer track changes and work together on software projects.
+Git also allows teams to collaborate safely by keeping a history of their changes.
